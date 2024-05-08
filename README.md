@@ -9,10 +9,9 @@
 📈 my github stats
 
 <div>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=FuadTalukder85&theme=highcontrast&hide_border=true" width="450" /></a>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FuadTalukder85&show_icons=true&theme=gotham" alt="FuadTalukder85" />
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=FuadTalukder85&theme=dark&show_icons=true" width="350" align="right" /></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=FuadTalukder85&theme=highcontrast&hide_border=true" width="350" /></a>
 </div>
-
 
 <h3 align="left">Languages and Tools:</h3>
 
