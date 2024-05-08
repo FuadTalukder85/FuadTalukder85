@@ -8,7 +8,11 @@
 </p>
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FuadTalukder85&show_icons=true&theme=gotham" alt="FuadTalukder85" />
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=FuadTalukder85&theme=dark&show_icons=true" width="350" align="right" /></a>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FuadTalukder85&show_icons=true&theme=gotham" alt="FuadTalukder85" />
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
