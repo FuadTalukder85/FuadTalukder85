@@ -6,6 +6,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FuadTalukder85&show_icons=true&theme=gotham" alt="FuadTalukder85" />
 
 <h3 align="left">Languages and Tools:</h3>
 
