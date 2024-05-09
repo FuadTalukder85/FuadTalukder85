@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fuad</h1>
-<h3 align="center">MERN Stack Developer from Bangladesh</h3>
+<img align="center" alt="Coding" width="100%" src="https://github.com/FuadTalukder85/FuadTalukder85/blob/main/github-banner.jpg" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadtalukder85&label=Profile%20views&color=0e75b6&style=flat" alt="fuadtalukder85" /> </p>
 
