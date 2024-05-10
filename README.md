@@ -9,7 +9,7 @@
 - 🌱 &nbsp;I’m currently learning Next js
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/React/Next/Express/Node/Mongodb
 - 👨‍💻 &nbsp;Read more about my projects at https://fuad-talukder.vercel.app
-- - 📫 You can reach out to me at webfuadtk@gmail.com for collaborations or inquiries.
+- 📫 You can reach out to me at webfuadtk@gmail.com for collaborations or inquiries.
 
 <br />
 
