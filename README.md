@@ -35,3 +35,4 @@
 <div>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=FuadTalukder85&theme=highcontrast&hide_border=true" width="400" /></a>
 </div>
+<div>![](https://github-readme-stats.vercel.app/api/top-langs/?username=FuadTalukder85&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</div>
