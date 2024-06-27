@@ -6,7 +6,7 @@
 <p>Welcome to my page! </br> I'm Fuad, Front-end developer from Bangladesh.</br> I am specialized in web design, Frontend technology and dynamic sector, It,s my passion. I am good at MERN Stack, Javascript, Typescript, Next js, Bootstrap, Tailwind css, Daisyui, Firebase, React Hook Form, Zod Validation, Framer Motion, React Components.</p>
 
 
-- 🌱 &nbsp;I’m currently learning Next js
+- 🌱 &nbsp;I’m currently learning GSAP
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/React/Next/Express/Node/Mongodb
 - 👨‍💻 &nbsp;Read more about my projects at https://fuad-talukder.vercel.app
 - 📫 You can reach out to me at webfuadtk@gmail.com for collaborations or inquiries.
