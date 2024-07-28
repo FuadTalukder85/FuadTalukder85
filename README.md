@@ -1,4 +1,4 @@
-<h1><img align="center" alt="Coding" width="100%" src="https://github.com/FuadTalukder85/FuadTalukder85/blob/main/github-banner-02.jpg" /></h1>
+<h1><img align="center" alt="Coding" width="100%" src="https://github.com/FuadTalukder85/FuadTalukder85/blob/main/fuadTalukder85.jpg" /></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadtalukder85&label=Profile%20views&color=0e75b6&style=flat" alt="fuadtalukder85" /> </p>
 
