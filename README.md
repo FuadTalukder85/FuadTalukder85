@@ -35,6 +35,6 @@
 <div>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=FuadTalukder85&theme=highcontrast&hide_border=true" width="400" /></a>
 </div>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FuadTalukder85&show_icons=true&locale=en&layout=compact" alt="FuadTalukder85" /></p> -->
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FuadTalukder85&show_icons=true&locale=en" alt="FuadTalukder85" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FuadTalukder85&show_icons=true&locale=en&layout=compact" alt="FuadTalukder85" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FuadTalukder85&show_icons=true&locale=en" alt="FuadTalukder85" /></p>
 
