@@ -1,40 +1,105 @@
-<!-- <h1><img align="center" alt="Coding" width="100%" src="https://github.com/FuadTalukder85/FuadTalukder85/blob/main/fuadTalukder85.jpg" /></h1>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadtalukder85&label=Profile%20views&color=0e75b6&style=flat" alt="fuadtalukder85" /> </p>
+# 🚀 Hi there, I'm Fuad Talukder 👋
+### **Full-Stack Software Engineer | TypeScript & Next.js Specialist**
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Fuad, Front-end developer from Bangladesh.</br> I am specialized in web design, Frontend technology and dynamic sector, It,s my passion. I am good at MERN Stack, Javascript, Typescript, Next js, Bootstrap, Tailwind css, Daisyui, Firebase, React Hook Form, Zod Validation, Framer Motion, React Components.</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fuad-talukder.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fuadtalukder)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:webfuadtk@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=fuadtalukder85&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/FuadTalukder85)
 
+</div>
 
-- 🌱 &nbsp;I’m currently learning GSAP
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/React/Next/Express/Node/Mongodb
-- 👨‍💻 &nbsp;Read more about my projects at https://fuad-talukder.vercel.app
-- 📫 You can reach out to me at webfuadtk@gmail.com for collaborations or inquiries.
+---
 
-<h1>Things I code with</h1>
+### 👨‍💻 About Me
 
-![HTML5](https://img.shields.io/badge/html5-%23FF9901.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%230db7ed.svg?style=for-the-badge&logo=typescript&logoColor=%5A0EF8)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![RTK Query](https://img.shields.io/badge/rtk_query-%23593d84.svg?style=for-the-badge&logo=redux&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Tanstack Query](https://img.shields.io/badge/tanstack_query-%23593d64.svg?style=for-the-badge&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+I am a passionate **Full-Stack Software Engineer** specializing in crafting high-performance web applications and scalable backend architectures. I build end-to-end production systems using **TypeScript, Next.js, React, Node.js (Express 5), PostgreSQL, Prisma, and Redis**.
 
-<h1 align="left">Connect With Me</h1>
+- 🔭 **Core Focus:** Distributed caching (Sub-20ms Redis), ACID transactional integrity, modular monolith architecture, and responsive UI/UX.
+- ⚡ **Engineering Approach:** Writing clean, type-safe, maintainable code with strict domain separation, automated validation, and micro-optimizations.
 
-<div align="left">
+---
+
+### 🛠️ Tech Stack & Engineering Toolkit
+
+#### 🌐 **Frontend & UI Engineering**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### ⚙️ **Backend, Database & System Architecture**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
+
+#### 🚀 **DevOps, Cloud & Tooling**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
+
+---
+
+### 🏆 Featured Engineering Project
+
+#### 🛍️ [Multi-Vendor E-Commerce Platform API](https://github.com/FuadTalukder85/multi-vendor-e-commerce-backend)
+> **Stack:** Express 5, TypeScript, PostgreSQL (pgvector), Prisma 7, Redis 7, Stripe, Better-Auth, Cloudinary
+- **Modular Monolith**: Designed 20+ isolated domain modules coordinating customer checkout, vendor sub-order lifecycle, and platform governance.
+- **Ultra-Fast Redis Caching**: Sub-20ms product catalog query performance with automatic PostgreSQL fallback and surgical pattern invalidation.
+- **Atomic Order Splitting**: Single-transaction master checkout decomposition across multiple independent vendors.
+- **Risk & Fraud Engine**: Real-time browser hardware fingerprinting, Sybil review ring detection, and coupon race-condition prevention.
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FuadTalukder85&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fuad's GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuadTalukder85&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Fuad's Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FuadTalukder85&theme=tokyonight&hide_border=true" alt="Fuad's GitHub Streak" />
+
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/fuadtalukder" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://fuad-talukder.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:webfuadtk@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://www.facebook.com/fuad.hasan.tk" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
-<a href="https://www.instagram.com/fuad_talukder" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>
 
-<h1 align="left">My github stats</h1>
-
-<div>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=FuadTalukder85&theme=highcontrast&hide_border=true" width="400" /></a>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FuadTalukder85&show_icons=true&locale=en&layout=compact" alt="FuadTalukder85" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FuadTalukder85&show_icons=true&locale=en" alt="FuadTalukder85" /></p>
- -->
